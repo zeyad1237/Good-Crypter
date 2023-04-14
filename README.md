@@ -19,7 +19,7 @@ I will not be held accountable for any illegal activities.
 [Showcase](hhttps://github.com/Nugeta/NugetaCrypter/blob/main/README.md#showcase)<br/>
   
 <a href="https://github.com/Nugeta/NugetaCrypter/releases/download/Release/Nugeta.rar">
-  <img src="https://media.discordapp.net/attachments/1086341505452617751/1096472508993110046/Screenshot_2023-04-10_003705.png" width="400" height="160" />
+  <img src="https://media.discordapp.net/attachments/1086341505452617751/1096480484160192522/tumblr_mtcbkkyCrL1s5e5bko1_500.gif" width="400" height="160" />
 </a>
 
 ## Features of Nugeta Crypter
