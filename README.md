@@ -45,14 +45,7 @@ I will not be held accountable for any illegal activities.
   
 </div>
 <div align="center">
-  
-**< 1 **
-  
-</div>
-
-
-
-<div align="center">
+ 
   
 **1**
   
