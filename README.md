@@ -22,7 +22,7 @@ I will not be held accountable for any illegal activities.
   <img src="https://media.discordapp.net/attachments/1086341505452617751/1096472508993110046/Screenshot_2023-04-10_003705.png" width="400" height="160" />
 </a>
 
-## Features of Discord AIO
+## Features of Nugeta Crypter
 
 </div>
 
